@@ -59,7 +59,7 @@ const SearchBar = () => {
                 d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
               />
             </svg>
-            <span className="ml-1 hidden md:block">Search</span>
+            <span className="ml-1 hidden md:block">Search Destinations</span>
           </button>
         </div>
       </div>
